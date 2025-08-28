@@ -198,6 +198,6 @@ The `NN` class implements the complete neural network with methods for training 
 
 ---
 
-**Author**: [Your Name]  
+**Author**:   Arjunnn2004
 **Date**: August 2025  
 **Version**: 1.0
